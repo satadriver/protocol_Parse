@@ -1,0 +1,432 @@
+网卡号码:	1
+网卡名称:	{DA2E76C1-BC02-49F0-BB36-D71FD590E80E}
+网卡描述:	Intel(R) 82579LM Gigabit Network Connection
+网卡类型:	6
+网卡IP地址:	192.168.10.183
+网关IP地址:	192.168.10.1
+
+网卡号码:	2
+网卡名称:	{FA9D411A-6CC9-4302-9AEE-8573D58668B6}
+网卡描述:	Intel(R) Centrino(R) Ultimate-N 6300 AGN
+网卡类型:	71
+网卡IP地址:	192.168.20.5
+网关IP地址:	192.168.20.1
+
+网卡号码:	3
+网卡名称:	{329E72AA-E812-457C-B15A-8053971838CB}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{6A291DB7-4227-4D88-B678-0031851E92AD}
+网卡描述:	Microsoft Hosted Network Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	172.17.51.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{47E5581E-AC7D-4FE0-85EF-EBD6020D6567}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+capture device:\Device\NPF_{DA2E76C1-BC02-49F0-BB36-D71FD590E80E} ok
+capture device:\Device\NPF_{FA9D411A-6CC9-4302-9AEE-8573D58668B6} ok
+winpcap capture packet in device:\Device\NPF_{329E72AA-E812-457C-B15A-8053971838CB} error
+winpcap capture packet in device:\Device\NPF_{6A291DB7-4227-4D88-B678-0031851E92AD} error
+winpcap capture packet in device:\Device\NPF_{47E5581E-AC7D-4FE0-85EF-EBD6020D6567} error
+网卡号码:	1
+网卡名称:	{DA2E76C1-BC02-49F0-BB36-D71FD590E80E}
+网卡描述:	Intel(R) 82579LM Gigabit Network Connection
+网卡类型:	6
+网卡IP地址:	0.0.0.0
+网关IP地址:	192.168.10.1
+
+网卡号码:	2
+网卡名称:	{FA9D411A-6CC9-4302-9AEE-8573D58668B6}
+网卡描述:	Intel(R) Centrino(R) Ultimate-N 6300 AGN
+网卡类型:	71
+网卡IP地址:	192.168.20.5
+网关IP地址:	192.168.20.1
+
+网卡号码:	3
+网卡名称:	{329E72AA-E812-457C-B15A-8053971838CB}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{6A291DB7-4227-4D88-B678-0031851E92AD}
+网卡描述:	Microsoft Hosted Network Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	172.17.51.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{47E5581E-AC7D-4FE0-85EF-EBD6020D6567}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+winpcap capture packet in device:\Device\NPF_{DA2E76C1-BC02-49F0-BB36-D71FD590E80E} error
+capture device:\Device\NPF_{FA9D411A-6CC9-4302-9AEE-8573D58668B6} ok
+winpcap capture packet in device:\Device\NPF_{329E72AA-E812-457C-B15A-8053971838CB} error
+winpcap capture packet in device:\Device\NPF_{6A291DB7-4227-4D88-B678-0031851E92AD} error
+winpcap capture packet in device:\Device\NPF_{47E5581E-AC7D-4FE0-85EF-EBD6020D6567} error
+网卡号码:	1
+网卡名称:	{DA2E76C1-BC02-49F0-BB36-D71FD590E80E}
+网卡描述:	Intel(R) 82579LM Gigabit Network Connection
+网卡类型:	6
+网卡IP地址:	192.168.10.183
+网关IP地址:	192.168.10.1
+
+网卡号码:	2
+网卡名称:	{FA9D411A-6CC9-4302-9AEE-8573D58668B6}
+网卡描述:	Intel(R) Centrino(R) Ultimate-N 6300 AGN
+网卡类型:	71
+网卡IP地址:	192.168.20.5
+网关IP地址:	192.168.20.1
+
+网卡号码:	3
+网卡名称:	{329E72AA-E812-457C-B15A-8053971838CB}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{6A291DB7-4227-4D88-B678-0031851E92AD}
+网卡描述:	Microsoft Hosted Network Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	172.29.250.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{47E5581E-AC7D-4FE0-85EF-EBD6020D6567}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DA2E76C1-BC02-49F0-BB36-D71FD590E80E}
+网卡描述:	Intel(R) 82579LM Gigabit Network Connection
+网卡类型:	6
+网卡IP地址:	0.0.0.0
+网关IP地址:	192.168.10.1
+
+网卡号码:	2
+网卡名称:	{FA9D411A-6CC9-4302-9AEE-8573D58668B6}
+网卡描述:	Intel(R) Centrino(R) Ultimate-N 6300 AGN
+网卡类型:	71
+网卡IP地址:	192.168.20.5
+网关IP地址:	192.168.20.1
+
+网卡号码:	3
+网卡名称:	{329E72AA-E812-457C-B15A-8053971838CB}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{6A291DB7-4227-4D88-B678-0031851E92AD}
+网卡描述:	Microsoft Hosted Network Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	172.21.228.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{47E5581E-AC7D-4FE0-85EF-EBD6020D6567}
+网卡描述:	Microsoft Wi-Fi Direct Virtual Adapter #2
+网卡类型:	71
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+
+pcap_next_ex error:-1
+pcap_next_ex error:-1
+网卡号码:	1
+网卡名称:	{DBE64072-E964-4571-950C-4A8CCC8E1F68}
+网卡描述:	Parallels VirtIO Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	10.211.55.5
+网关IP地址:	10.211.55.1
+
+网卡号码:	2
+网卡名称:	{28FFDDBF-D561-4C9C-A63B-E74566848724}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet1
+网卡类型:	6
+网卡IP地址:	192.168.86.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	3
+网卡名称:	{BC3274FC-2EBC-4E1A-BF77-FE763955C718}
+网卡描述:	VMware Virtual Ethernet Adapter for VMnet8
+网卡类型:	6
+网卡IP地址:	192.168.238.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	4
+网卡名称:	{C7712AFF-AA16-45A0-9FF4-5E0204148DD3}
+网卡描述:	VirtualBox Host-Only Ethernet Adapter
+网卡类型:	6
+网卡IP地址:	192.168.56.1
+网关IP地址:	0.0.0.0
+
+网卡号码:	5
+网卡名称:	{2F92DCA9-77F1-4E76-B69D-9A7A1F53EE4D}
+网卡描述:	Array Networks TAP-Windows Adapter
+网卡类型:	53
+网卡IP地址:	0.0.0.0
+网关IP地址:	0.0.0.0
+

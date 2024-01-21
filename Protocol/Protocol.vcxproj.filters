@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\MEDIA">
+      <UniqueIdentifier>{975136a3-2c04-4b38-b146-7514877d104c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\IMSG">
+      <UniqueIdentifier>{55c7d60b-014c-4f3c-9169-6844275ef9b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\WEB">
+      <UniqueIdentifier>{62de7bb1-8f90-4eba-9f14-808831e62c2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\EC">
+      <UniqueIdentifier>{1803c891-44fa-42b1-b721-eb231c3c6a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\TRAVAL">
+      <UniqueIdentifier>{da0f1c2f-9dd8-4fd3-911b-d654cf765b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\OTHER">
+      <UniqueIdentifier>{330e3f1a-d269-4baf-8bfb-74682f043389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\MEDIA">
+      <UniqueIdentifier>{629196b8-457e-4d3a-9a45-fddb6eb78e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\IMSG">
+      <UniqueIdentifier>{397bf2cc-4536-4073-8f67-9582e3c648d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\WEB">
+      <UniqueIdentifier>{88b63cae-0cc7-47a2-b7f0-8a97249a5a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\EC">
+      <UniqueIdentifier>{e0e261c2-a065-4cb6-8d87-a4b9cbadebc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\OTHER">
+      <UniqueIdentifier>{535ac0ea-f6b6-4f41-b149-f013137b0775}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\TRAVAL">
+      <UniqueIdentifier>{18cb2935-daaf-4c25-a270-716beae96aa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Radius">
+      <UniqueIdentifier>{19481943-6a7d-41af-b1ff-25a2197ca7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Radius">
+      <UniqueIdentifier>{18fb47e6-6c6c-4d06-ae94-677e468f56ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\SSL">
+      <UniqueIdentifier>{a0a2b374-4071-4038-83e7-674c145ff6d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\SSL">
+      <UniqueIdentifier>{67a1b30b-5dc8-4594-940c-950a6d903a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Http">
+      <UniqueIdentifier>{b3e1d710-b898-4f3f-a5cd-6a433dbe044b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Http">
+      <UniqueIdentifier>{c5acb046-6ca0-4125-9323-c629d67baff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Shopping">
+      <UniqueIdentifier>{38b0cd62-82f7-497c-a9bb-15fa1460923a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Shopping">
+      <UniqueIdentifier>{d61cb34a-e60b-4d0e-aa1d-85188f1689a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\dns">
+      <UniqueIdentifier>{3c738389-5427-4b10-a659-20f76974f18b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dns">
+      <UniqueIdentifier>{c5cf4ccf-0f22-4b90-b983-ec65aa812257}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="winpcap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="packet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="config.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fileOper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSG\qqcrypt.cpp">
+      <Filter>源文件\IMSG</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSG\QQ.cpp">
+      <Filter>源文件\IMSG</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSG\Wechat.cpp">
+      <Filter>源文件\IMSG</Filter>
+    </ClCompile>
+    <ClCompile Include="DataList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProtocolParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Coder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Base64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Compression.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpUtils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Netcard.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSG\mobileQQ.cpp">
+      <Filter>源文件\IMSG</Filter>
+    </ClCompile>
+    <ClCompile Include="radius\Radius.cpp">
+      <Filter>源文件\Radius</Filter>
+    </ClCompile>
+    <ClCompile Include="ssl\ssl.cpp">
+      <Filter>源文件\SSL</Filter>
+    </ClCompile>
+    <ClCompile Include="http\http.cpp">
+      <Filter>源文件\Http</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Shopping\Shopping.cpp">
+      <Filter>源文件\Shopping</Filter>
+    </ClCompile>
+    <ClCompile Include="Shopping\taobao.cpp">
+      <Filter>源文件\Shopping</Filter>
+    </ClCompile>
+    <ClCompile Include="dns\dns.cpp">
+      <Filter>源文件\dns</Filter>
+    </ClCompile>
+    <ClCompile Include="SoftFilter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MySqlite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="checksum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReplacePacket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ParseAttacker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="security.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="winpcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="packet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="protocol.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="packetParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fileOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="makeGuy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSG\qqcrypt.h">
+      <Filter>头文件\IMSG</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSG\QQ.h">
+      <Filter>头文件\IMSG</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSG\Wechat.h">
+      <Filter>头文件\IMSG</Filter>
+    </ClInclude>
+    <ClInclude Include="DataList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtocolParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Coder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Base64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="compress.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Netcard.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSG\mobileQQ.h">
+      <Filter>头文件\IMSG</Filter>
+    </ClInclude>
+    <ClInclude Include="radius\Radius.h">
+      <Filter>头文件\Radius</Filter>
+    </ClInclude>
+    <ClInclude Include="ssl\ssl.h">
+      <Filter>头文件\SSL</Filter>
+    </ClInclude>
+    <ClInclude Include="http\http.h">
+      <Filter>头文件\Http</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Shopping\Shopping.h">
+      <Filter>头文件\Shopping</Filter>
+    </ClInclude>
+    <ClInclude Include="Shopping\taobao.h">
+      <Filter>头文件\Shopping</Filter>
+    </ClInclude>
+    <ClInclude Include="dns\dns.h">
+      <Filter>头文件\dns</Filter>
+    </ClInclude>
+    <ClInclude Include="SoftFilter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MySqlite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="checksum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReplacePacket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ParseAttacker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="security.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
